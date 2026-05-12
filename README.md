@@ -73,7 +73,5 @@ An interactive Streamlit dashboard is also included for visualization and analys
 - Correlation Heatmap
 - User Filters
 
- 
-# 👩‍💻 Author
 
-Swathi Sivakumar
+
